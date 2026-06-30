@@ -148,7 +148,7 @@ Candidate Ranking
  📸 Dashboard / Demos
 
 ```
-![image alt](https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/cdd9b8b805312f327c2d0de85bad8ef742919d96/Assests/charts.png)
+![AI Candidate Ranking System](https://raw.githubusercontent.com/shivagundeti2005/AI_Candidate_Ranking_System/cdd9b8b805312f327c2d0de85bad8ef742919d96/Assests/charts.png)
 
 ---
 
