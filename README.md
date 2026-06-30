@@ -149,10 +149,6 @@ Candidate Ranking
 
 ```
 ![image alt](https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/cdd9b8b805312f327c2d0de85bad8ef742919d96/Assests/charts.png)
-dashboard image : https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/dashboard.png
-leaderboard image : https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/leaderboard.png
-charts image : https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/charts.png
-```
 
 ---
 
