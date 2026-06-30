@@ -150,7 +150,7 @@ Candidate Ranking
 Add screenshots here after deployment.
 
 ```
-screenshots/login.png: https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/login%20.png
+screenshots/login.png: ![Alt text](https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/login%20.png)
 screenshots/dashboard.png : https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/dashboard.png
 screenshots/leaderboard.png : https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/leaderboard.png
 screenshots/charts.png : https://github.com/shivagundeti2005/AI_Candidate_Ranking_System/blob/main/Assests/charts.png
